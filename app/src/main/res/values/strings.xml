@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickTick</string>
+    <string name="appwidget_description">my custom widget description</string>
+    <string name="text_button">task 1</string>
+</resources>
